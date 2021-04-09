@@ -1,17 +1,17 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hello! {}
 
-You can call this as an Auto Filter Bot if you like :D
+This is an Auto Filter Bot by @TheTeleRoid:D
 
-This is Version 2 of Auto Filter Bot
+This is Version 2 of Auto Filter Bot [AutoFilterV2]
 
 Bot gives button link to files in connected channels on query !
 
 No need to add filters for your files or movies from now on!
 
-For more click <i>help</i></b>"""
+For more click <i>/help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
@@ -50,20 +50,26 @@ or
 
 
 No need add each filter again!
-Bot will automatically search for your files and give links to that!
+Bot will automatically search for your files and give link🔗 of that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @TeleRoidGroup</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creator :</b> @TheTeleRoid
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Developer👨‍💻 :</b> <a href='https://telegram.dog/PredatorHackerzZ_bot'>My Father 👨‍💻</a> 
+
+⭕<b>Powered By :</b> <a href='https://telegram.dog/Moviesflixers_DL'>Click </a>
+
+⭕<b>Channel Updates :<a href='https://t.me/TeleRoidGroup'>Click Link</a>
+
+⭕<b>Support Channel :<a href='https://t.me/TeleRoid14'> Click Here</a>
 
 """
