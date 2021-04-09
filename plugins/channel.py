@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @teamteleroid
 
 
 import re
@@ -68,7 +68,7 @@ async def addchannel(client: Bot, message: Message):
         invitelink = await client.export_chat_invite_link(chid)
     except:
         await message.reply_text(
-            "<i>Add me as admin in your channel with admin rights - 'Invite Users via Link' and try again</i>",
+            "<i>Add me as admin in your channel with all admin rights - 'Invite Users via Link' and try again</i>",
         )
         return
 
