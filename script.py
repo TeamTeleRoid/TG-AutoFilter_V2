@@ -1,13 +1,11 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hello! {}
+    START_MSG = """ <b>Hello Dear! {}
 
-This is an Auto Filter Bot by @TheTeleRoid:D
+This is an Auto Filter Bot V2 by @TheTeleRoid.
 
-This is Version 2 of Auto Filter Bot [AutoFilterV2]
-
-Bot gives button link to files in connected channels on query !
+This Bot gives button link to files in connected channels on queries!
 
 No need to add filters for your files or movies from now on!
 
@@ -56,15 +54,15 @@ Bot will automatically search for your files and give link🔗 of that!
 <b>© @TeleRoidGroup</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>🤖 My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creator :</b> @TheTeleRoid
+⭕️<b>👽 Creator :</b> @TheTeleRoid
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>🈂 Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>📃 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Developer👨‍💻 :</b> <a href='https://telegram.dog/PredatorHackerzZ_bot'>My Father 👨‍💻</a> 
+⭕️<b>👨‍💻 Developer :</b> <a href='https://telegram.dog/PredatorHackerzZ_bot'>My Father 👨‍💻</a> 
 
 ⭕<b>Powered By :</b> <a href='https://telegram.dog/Moviesflixers_DL'>Click </a>
 
