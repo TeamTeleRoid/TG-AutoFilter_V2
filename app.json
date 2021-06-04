@@ -1,7 +1,7 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/c5467936eb3bd04c8fac0.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -9,7 +9,7 @@
         "TeleRoid"
     ],
     "website": "https://T.me/TheTeleRoid",
-    "repository": "https://github.com/TeamTeleRoid/Auto-Filter-Bot-V2",
+    "repository": "https://github.com/TeamTeleRoid/TG-AutoFilter_V2",
     "success_url": "https://telegram.dog/TeleRoid14",
     "env": {
         "TG_BOT_TOKEN": {
