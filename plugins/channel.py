@@ -38,7 +38,7 @@ async def addchannel(client: Bot, message: Message):
         await message.reply_text(
             "<i>Enter in correct format!\n\n<code>/add channelid</code>  or\n"
             "<code>/add @channelusername</code></i>"
-            "\n\nGet Channel id from @ChannelidHEXbot",
+            "\n\nGet Channel id from @ChannelidHEXbot\n\n@TheTeleRoid",
         )
         return
     try:
@@ -68,7 +68,7 @@ async def addchannel(client: Bot, message: Message):
         invitelink = await client.export_chat_invite_link(chid)
     except:
         await message.reply_text(
-            "<i>Add me as admin in your channel with all admin rights - 'Invite Users via Link' and try again</i>",
+            "<i>Add me as admin in your channel with all admin rights in Your Group\n\n@TheTeleRoid- 'Invite Users via Link' and try again</i>",
         )
         return
 
